@@ -3,11 +3,11 @@
     "coverage": {
       "/home/industrious-chip-8083/tic-tac-toe-rb-ruby-intro-000/lib/tic_tac_toe.rb": [
         1,
-        7,
-        7,
-        7,
-        7,
-        7,
+        5,
+        5,
+        5,
+        5,
+        5,
         null,
         null,
         1,
@@ -15,7 +15,7 @@
         null,
         null,
         1,
-        6,
+        3,
         null,
         null,
         null,
@@ -51,7 +51,7 @@
         3,
         3,
         2,
-        2,
+        0,
         null,
         1,
         null,
@@ -142,6 +142,6 @@
         null
       ]
     },
-    "timestamp": 1604292666
+    "timestamp": 1604292713
   }
 }
