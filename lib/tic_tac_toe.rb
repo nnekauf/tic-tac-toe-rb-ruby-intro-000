@@ -114,7 +114,17 @@ def winner(board)
     
   end
 end
-    
+    def play(board)
+      counter = 0 
+        until counter==9 
+        turn(board)
+          if won?(board)
+            break 
+          end
+        counter +=1 
+    end
+end  
+
     
     
     
